@@ -31,3 +31,8 @@ Commands to Download Minecraft server to your server:
 
 * Command to run the minecraft server: 
 * java -Xmx1G -Xms1G -jar minecraft_server.1.20.2.jar nogui
+
+
+
+
+
