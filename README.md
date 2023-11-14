@@ -6,8 +6,8 @@ Commands to Download splunk onto server:
 * Cd /opt/splunk 
 * Sudo chown ec2-user /opt/splunk 
 * Pwd 
-* wget -O splunk-9.1.1-64e843ea36b1-Linux-x86_64.tgz "https://download.splunk.com/products/splunk/releases/9.1.1/linux/splunk-9.1.1-64e843ea36b1-Linux-x86_64.tgz"
-* Tar -xzyC -f “splunk.tqz" file 
+* wget -O splunk-9.1.1-64e843ea36b1-Linux-x86_64.tgz "splunk-download-link"
+* Tar -xzyC -f “splunk-9.1.1-64e843ea36b1-Linux-x86_64.tgz" 
 * Cd bin
 * ./splunk status
 * ./splunk start 
